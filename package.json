@@ -1,0 +1,26 @@
+{
+  "name": "eslint-plugin-safe-regex",
+  "version": "1.0.0",
+
+  "author": "Beau Gunderson <beau@beaugunderson.com>",
+  "description": "",
+  "license": "BSD",
+  "keywords": [
+    "eslint",
+    "eslintplugin"
+  ],
+
+  "main": "eslint-plugin-safe-regex.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies": {
+    "safe-regex": "^1.1.0"
+  },
+
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  }
+}
